@@ -15,7 +15,3 @@ It supports the following operations:
 - Uses **JUnit 5** for unit testing
 - Implements efficient **prefix-based lookup**
 
----
-
-## ? Project Structure
-
