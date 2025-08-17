@@ -10,7 +10,7 @@ It supports the following operations:
 
 ---
 
-## ? Features
+## Features
 - Built with **Java 17**
 - Uses **JUnit 5** for unit testing
 - Implements efficient **prefix-based lookup**
